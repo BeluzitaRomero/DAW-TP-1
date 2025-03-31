@@ -6,8 +6,7 @@
 - **JTP: Juan M. Buffa**
 
 ## 📌Trabajo Practico N°1
-
-TP N°1: Typescript
+Typescript
 
 ## ✒️ Integrantes
 
